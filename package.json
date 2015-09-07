@@ -1,0 +1,23 @@
+{
+  "name": "better-fs-errors",
+  "description": "Better-looking Node fs error outputs",
+  "version": "1.0.0",
+  "author": "Chris Deacy <chris@deacy.io> (http://deacy.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://chrisdothtml@github.com/chrisdothtml/better-fs-errors.git"
+  },
+  "keywords": [
+    "better",
+    "fs",
+    "error",
+    "node",
+    "output",
+    "npm"
+  ],
+  "dependencies": {
+    "errno": "^0.1.4"
+  },
+  "main": "lib"
+}
