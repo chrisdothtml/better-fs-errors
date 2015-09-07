@@ -1,7 +1,7 @@
 {
   "name": "better-fs-errors",
   "description": "Better-looking Node fs error outputs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Chris Deacy <chris@deacy.io> (http://deacy.io)",
   "license": "MIT",
   "repository": {
