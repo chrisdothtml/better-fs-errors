@@ -1,6 +1,6 @@
 better-fs-errors
 ===
-better-fs-errors is an npm module that improves the way fs (file system) errors look. It uses the [errno](https://github.com/rvagg/node-errno) module to provide more helpful error messages based on the error code provided by node. This has not been fully tested with every possible error, so please report any issues you run into [here](https://github.com/chrisdothtml/better-fs-errors/issues).
+better-fs-errors is an node module that improves the way fs (file system) errors look. It uses the [errno](https://github.com/rvagg/node-errno) module to provide more helpful error messages based on the error code provided by node. This has not been fully tested with every possible error, so please report any issues you run into [here](https://github.com/chrisdothtml/better-fs-errors/issues).
 
 Before:
 
