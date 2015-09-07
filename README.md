@@ -44,6 +44,6 @@ throw bfe(err);
 
 NOTE: If it can't find your error code in errno, it will return the original error.
 
-### dependencies
+# Dependencies
 
 - [errno](https://github.com/rvagg/node-errno)
